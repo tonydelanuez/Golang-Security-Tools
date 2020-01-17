@@ -1,5 +1,6 @@
-Simple TCP port scanner written in Golang. Utilized goroutines to perform scans concurrently. 
+# Golang Security Tools
 
-Usage:
+Tools used for penetration testing adapted from the book [Black Hat Go](https://nostarch.com/blackhatgo). 
 
-./scanner <IP>
+
+[scanner.go](./scanner.go): Simple TCP port scanner. Utilizes goroutines to perform scans concurrently. 
